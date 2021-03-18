@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     println()
 
     print("for (i in 5..1) print(i) = ")
-    for (i in 5..1) print(i)             // prints nothing
+    for (i in 5..1) print(i)             // here this prints nothing
 
     println()
 
